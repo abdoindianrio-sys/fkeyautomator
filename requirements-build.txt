@@ -1,0 +1,2 @@
+# Only needed for build_exe.bat (optional single-file .exe)
+pyinstaller

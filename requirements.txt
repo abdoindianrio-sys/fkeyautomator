@@ -1,0 +1,2 @@
+# FKey Automator has NO third-party dependencies.
+# It only needs Python 3.9+ for Windows (with Tcl/Tk, included by default).
